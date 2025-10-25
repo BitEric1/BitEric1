@@ -1,74 +1,100 @@
 
+<!-- Wave header -->
+![wave](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2563eb,100:60a5fa&text=Bit%20Eric&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Full-stack%20Builder%20·%20JS-first%20·%20Mobile-first&descAlign=50&descAlignY=65&animation=twinkling)
+
 <div align="center">
 
-# 👋 Xin chào, ta là **Bit Eric** — _trẫm_ đây!
-**Full‑stack Builder • JS‑First • Mobile‑first • UX tinh gọn**
+### 🜲 **Xin chào, trẫm là _Bit Eric_**  
+*“Code gọn, chạy mượt, UX tinh – đó là cách trẫm chơi.”*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=biteric&style=flat)](https://github.com/biteric)
-[![Followers](https://img.shields.io/github/followers/biteric?style=flat)](https://github.com/biteric?tab=followers)
-[![Stars](https://img.shields.io/github/stars/biteric?affiliations=OWNER%2CCOLLABORATOR&style=flat)](https://github.com/biteric?tab=repositories)
+<!-- Typing effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Ch%C3%A0o+th%E1%BA%BF+gi%E1%BB%9Bi%2C+ta+l%C3%A0+Bit+Eric;🚀+Full-stack+Builder+%7C+JS-first+%7C+Mobile-first;✨+Thi%E1%BA%BFt+k%E1%BA%BF+%C4%91%E1%BA%B7c+%C4%91%C3%A8%2C+tr%E1%BA%A3i+nghi%E1%BB%87m+m%C6%B0%E1%BB%A3t+nh%C6%B0+b%C6%A1)](https://git.io/typing-svg)
+
+<!-- Social & counters -->
+<a href="https://github.com/biteric">
+  <img src="https://komarev.com/ghpvc/?username=biteric&label=Profile%20views&color=0e75b6&style=flat" />
+</a>
+<a href="https://github.com/biteric?tab=followers">
+  <img src="https://img.shields.io/github/followers/biteric?style=flat&label=Followers" />
+</a>
+<a href="https://github.com/biteric?tab=repositories">
+  <img src="https://img.shields.io/github/stars/biteric?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Stars" />
+</a>
 
 </div>
 
 ---
 
-## 💫 Về trẫm — phiên bản rút gọn
-- 🧠 **Full‑stack theo trường phái thực dụng**: đơn giản, đo đạc, lặp nhanh.
-- 💻 **JS‑first**: ưu tiên JavaScript cho FE, responsive by default.
-- 📱 **Mobile‑first** & **perf‑aware**: ưu tiên tốc độ, cảm giác mượt và rõ ràng.
-- 🗃️ **Mê dữ liệu**: thiết kế schema sạch, seed rõ ràng, collation chuẩn.
-- 🛡️ **Kỹ tính về bảo mật & triển khai**: CORS/Helmet/Rate‑limit đúng thứ tự, proxy/Nginx/Cloudflare gọn.
-- 🤝 **Làm việc nhóm**: quy ước branch, onboard nhanh, viết README trước khi viết code.
-- 🎨 **Yêu thẩm mỹ**: Tailwind, layout lưới, hover state tinh tế, icon gọn gàng.
-- 🌏 **Mở lòng với văn hoá & ngôn ngữ**: tôn trọng bản sắc, công nghệ để kể chuyện.
+## ⚡ Về trẫm — ngắn mà gắt
+- 🧠 **Thực dụng có nguyên tắc**: làm cái cần, đo bằng dữ liệu thật, cắt bỏ mọi thứ thừa.
+- 💻 **JS-first**: ưu tiên JavaScript cho giao diện, **responsive by default**.
+- 📱 **Mobile-first** & **perf-aware**: thao tác mượt, touch chuẩn, tải nhanh.
+- 🎯 **UX tinh gọn**: state rõ ràng, hành vi nhất quán, chi tiết nhỏ nhưng “đã”.
+- 🛡️ **Triển khai sạch**: CORS/Helmet/Rate-limit đúng thứ tự, proxy gọn gàng.
+- 🤝 **Tôn trọng teamwork**: guideline branch, onboard 5 phút, README trước code.
 
 ---
 
-## 🧰 Hộp đồ nghề ưa thích
-**Frontend**: `JavaScript` `React` `Next.js` `Tailwind` `Lucide`  
-**Backend**: `Node.js` `Express` `PM2` `Nginx` `Cloudflare`  
-**Database**: `MySQL 8` `TiDB Cloud` `DBeaver` `phpMyAdmin`  
-**Hỗ trợ**: `Firebase Auth` `Resend` `CORS` `Helmet` `Rate‑Limiter`  
-**Workflow**: `GitHub Flow` `Code Review` `SSH` `Port‑forwarding`
+## 🧰 Hộp đồ nghề “bén”
+<div align="center">
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-000?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?logo=tailwindcss)
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000?logo=express)
+![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000?logo=cloudflare)
+![Nginx](https://img.shields.io/badge/Nginx-000?logo=nginx)
+![PM2](https://img.shields.io/badge/PM2-000?logo=pm2)
+
+</div>
 
 ---
 
-## ⚡ Hiện tại trẫm đang
-- 🔧 **Mài bén workflow cá nhân**: script hoá việc lặp đi lặp lại, log sạch để debug nhanh.
-- 🎯 **Rèn UI/UX**: chuyển động nhỏ nhưng “đã”, state rõ ràng, cảm giác “wow nhưng tiết chế”.
-- 📚 **Ghi chép & chia sẻ**: notes ngắn gọn, dễ nhân bản cho team dùng lại.
+## 🧭 Tư duy & kỷ luật
+- **Không over-engineer**: đủ tốt, có bảo dưỡng, đọc lại sau 6 tháng vẫn hiểu.
+- **Automation trước**: seed, deploy, kiểm soát log — mọi thứ lặp đi lặp lại thì tự động hóa.
+- **Viết cho người dùng trước, dev sau**: UI rõ → DX gọn.
+- **Clean-by-default**: folder cấu trúc rõ, ENV mẫu, script “1 lệnh là chạy”.
 
 ---
 
-## 🧭 Nguyên tắc làm việc
-- “**Làm cái cần trước**”, đo bằng số liệu thật.
-- **Viết cho người dùng trước, cho dev sau** (UI rõ ràng → DX gọn).
-- **Không over‑engineer**: đủ tốt, có bảo dưỡng.
-- **Tự động hoá** mọi thứ có thể (seed, deploy, theo dõi).
+## 🔥 Đang luyện công
+- Tối ưu cảm giác chạm & chuyển động nhỏ (vi mô nhưng khác biệt lớn).
+- Viết component **JS thuần**, **tránh rườm rà**, **chạy nhanh trên mobile**.
+- Ghi chép ngắn gọn, có thể **tái sử dụng** cho team.
 
 ---
 
-## 🏅 Vài điểm nhấn
-- Tổ chức cấu trúc FE/BE rõ ràng, **dev‑prod tách bạch**.
-- Chú trọng **streak/goal** và **progress rõ ràng** để giữ động lực người dùng.
-- Thói quen **viết tài liệu**: README, ENV mẫu, checklist onboard 5 phút.
+## 🧩 Fun facts (cho vui mà thật)
+- Có thể **sửa CORS lúc 2:00 sáng** mà vẫn lịch sự.
+- Thích **âm nhạc**, mê **layout gọn**, ghét **spaghetti code**.
+- Tin rằng **“Code đẹp là code có người dùng.”**
 
 ---
 
-## 📫 Liên hệ
-- 🌐 Website: **hoctiengtay.edu.vn**
-- ✉️ Email: **CSKH@hoctiengtay.edu.vn**
-- 💬 Luôn sẵn sàng trao đổi về: UI/UX, JS/Node, DB modeling, và câu chuyện văn hoá.
-
----
-
-## 🧩 Fun facts
-- Có thể **sửa CORS lúc 2 giờ sáng** mà vẫn lịch sự.
-- Thích **âm nhạc** và **biểu đạt bằng hình** hơn là dài dòng.
-- Tin rằng **code đẹp là code có người dùng**.
+## 📫 Kết nối nhẹ nhàng
+**Email:** CSKH@hoctiengtay.edu.vn  
+**Web:** hoctiengtay.edu.vn
 
 <div align="center">
 
-**Nếu thấy hợp gu — để lại một ⭐ cho trẫm nhé!**
+<!-- subtle call-to-action with gradient text via SVG -->
+<svg width="100%" height="60">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#2563eb" offset="0%"/>
+      <stop stop-color="#60a5fa" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="url(#g)" font-size="26" font-weight="700">
+    Nếu hợp gu — để lại một ⭐ cho trẫm nhé!
+  </text>
+</svg>
 
 </div>
+
+<!-- Wave footer -->
+![wave](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:60a5fa,100:2563eb&section=footer)
