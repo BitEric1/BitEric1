@@ -25,7 +25,7 @@
 
 ---
 
-## ⚡ Về trẫm — ngắn mà gắt
+## ⚡ Về trẫm
 - 🧠 **Thực dụng có nguyên tắc**: làm cái cần, đo bằng dữ liệu thật, cắt bỏ mọi thứ thừa.
 - 💻 **JS-first**: ưu tiên JavaScript cho giao diện, **responsive by default**.
 - 📱 **Mobile-first** & **perf-aware**: thao tác mượt, touch chuẩn, tải nhanh.
